@@ -1,3 +1,8 @@
+---
+name: gpt-image-2
+description: Use when the user asks to generate or edit raster images.
+---
+
 # GPT Image 2
 
 Use this skill when the user asks to generate or edit raster images.
